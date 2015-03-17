@@ -1,0 +1,13 @@
+package com.dwy.block.init;
+
+import net.minecraft.item.Item;
+
+public class Items {
+	
+	public static Item obsidian_sword;
+	
+	public static void Init() {
+		obsidian_sword = new Item().setUnlocalizedName("Obsidian Sword");
+		}
+
+}

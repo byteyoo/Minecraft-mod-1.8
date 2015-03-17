@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dwymod",
+  "name": "Yoo Mod",
+  "description": "Test Minecraft mod (1.8)",
+  "version": "${1.8}",
+  "mcversion": "${1.8}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Estevan_(Dong Woo Yoo)"],
+  "credits": "Dong Woo Yoo",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

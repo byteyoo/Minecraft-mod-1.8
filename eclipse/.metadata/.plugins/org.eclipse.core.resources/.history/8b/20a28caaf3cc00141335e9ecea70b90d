@@ -1,0 +1,11 @@
+package com.dwy.block.init;
+
+public class Items {
+	
+	public static Item Osword
+	
+	public static void register() {
+		
+	}
+
+}
