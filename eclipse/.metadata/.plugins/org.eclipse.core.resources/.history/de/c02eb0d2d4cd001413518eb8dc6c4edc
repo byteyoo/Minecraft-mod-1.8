@@ -1,0 +1,15 @@
+package com.dwy.block.proxy;
+
+import com.dwy.block.init.Items;
+
+public class ClientProxy extends CommonProxy {
+	
+	public class CommonProxy
+	{
+		public void registerRenders()
+		{
+			Items.registerRenders();
+		}
+	}	
+
+}

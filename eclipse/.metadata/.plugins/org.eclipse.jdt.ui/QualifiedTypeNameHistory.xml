@@ -7,4 +7,8 @@
 <fullyQualifiedTypeName name="net.minecraftforge.fml.common.Mod"/>
 <fullyQualifiedTypeName name="net.minecraft.item.Item"/>
 <fullyQualifiedTypeName name="net.minecraftforge.fml.common.registry.GameRegistry"/>
+<fullyQualifiedTypeName name="com.dwy.block.Reference"/>
+<fullyQualifiedTypeName name="com.dwy.block.init.Items"/>
+<fullyQualifiedTypeName name="net.minecraftforge.fml.common.SidedProxy"/>
+<fullyQualifiedTypeName name="com.dwy.block.proxy.ClientProxy.CommonProxy"/>
 </qualifiedTypeNameHistroy>
